@@ -2,4 +2,4 @@
 
 This project provides source code for the article on Medium on how to create a curated color picker in SwiftUI
 
-[https://medium.com/swlh/creating-a-curated-color-picker-in-swiftui-18a9a86f7721](https://medium.com/swlh/creating-a-curated-color-picker-in-swiftui-18a9a86f7721)
+[https://codechimp.org/swiftui/iosdev/2020/09/20/creating-a-curated-color-picker-in-swiftui.html](https://codechimp.org/swiftui/iosdev/2020/09/20/creating-a-curated-color-picker-in-swiftui.html)
